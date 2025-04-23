@@ -23,16 +23,18 @@ In this video, you'll learn how to build and deploy an Advanced Solana NFT Creat
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-nft-creator-dapp-or-mint-update-transfer-nfts-w-next.js-and-metaplex)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/qA-VonI0Otw?si=MB_s6QKFgCi1BZ-Q)
+
+#### Final Code Setup
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  Video:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-nft-creator-dapp-or-mint-update-transfer-nfts-w-next.js-and-metaplex
+  Video: https://youtu.be/qA-VonI0Otw?si=MB_s6QKFgCi1BZ-Q
 ```
 
 #### Install Vs Code Editor
@@ -50,35 +52,33 @@ Kindly follow the following Instructions to run the project in your system and i
   URL: https://nodejs.org/en/download
 ```
 
-#### Clone Starter File
-
-```
-  GET: Project Starter File Download
-```
-
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
-#### What You Will Get
+#### SOLANA NFT MARKETPLACE DAPP
 
-Once you download the final source code, you will get a ZIP file, then you will have 2 FOLDERS & README file which contain all the instructions to run the project and set video
+```
+  WATCH: SOLANA NFT MARKETPLACE DAPP
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-full-stack-solana-blockchain-nft-marketplace-dapp
+  Video: https://youtu.be/WAqhwpafEGw?si=x7KgPnbLBD_tf5L4
+```
 
 #### Setup Video
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
-  VIDEO:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-nft-creator-dapp-or-mint-update-transfer-nfts-w-next.js-and-metaplex
+  VIDEO: https://youtu.be/qA-VonI0Otw?si=MB_s6QKFgCi1BZ-Q
 ```
 
 #### Final Source Code
 
 ```
   Download the Final Source Code
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advanced-solana-nft-creator-dapp-or-mint-update-transfer-nfts-w-next.js-and-metaplex
 ```
 
 #### Test Faucets
